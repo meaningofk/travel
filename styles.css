@@ -207,6 +207,7 @@ input[type=text]{
 .contactp{
     font-size: 18px;
     text-shadow: 1px 1px black;
+    font-family: NoirRegular;
 }
 .open2{
     font-size: 14px;
